@@ -3,7 +3,7 @@
 
 Explore the power of GSAP (GreenSock Animation Platform) with captivating animations and interactions.
 
-**Live Demo:** [View Live Demo]()
+**Live Demo:** [View Live Demo](https://rebels-puce.vercel.app/)
 
 ## Table of Contents
 - [Introduction](#introduction)
